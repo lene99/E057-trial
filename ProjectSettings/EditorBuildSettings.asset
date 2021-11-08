@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/QuizGame(Giveaway).unity
+    guid: 571ca639ef283a045a794bf236a3ac49
+  - enabled: 0
+    path: 
+    guid: 1b54beb15d638274fb96d1095f7888f2
+  - enabled: 1
+    path: Assets/Scenes/EmailGameP1.unity
+    guid: f5fc0493e6a098a4bbcf02564adc4b7a
+  - enabled: 1
+    path: Assets/Scenes/QuizGame(TechScam).unity
+    guid: af943f032ca82404682048e04cd55af2
+  - enabled: 1
+    path: Assets/Scenes/EndlessRunnerP1.unity
+    guid: e3461cedea29ab741b99c026a880644f
+  - enabled: 1
+    path: Assets/Scenes/EndlessRunner.unity
+    guid: 4a900fe30b72a2e4f9e6aee5fdcdd254
+  - enabled: 1
+    path: Assets/Scenes/HomeScreen2.unity
+    guid: a128b7a9ae703394fa9cfbc0815299e1
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/sceneA.unity
+    guid: 68e670dbf75507f4bbec5062091a350c
+  - enabled: 1
+    path: Assets/Scenes/QuizIntro(Giveaway).unity
+    guid: f73c4b9f6ebee544eafbc0d8da07fa52
+  - enabled: 1
+    path: Assets/Scenes/QuizIntro(TechScam).unity
+    guid: 12bd5171d6fb0414485f75e9d34dd891
+  - enabled: 1
+    path: Assets/Scenes/ReactionGameP1.unity
+    guid: 8d853617d72828b45a44e230a817249d
+  - enabled: 1
+    path: Assets/Scenes/ContentMenu.unity
+    guid: 42d6e7ee5fb30d44589c3a82d8615218
+  - enabled: 1
+    path: Assets/Scenes/BackupHomescreen.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/EmailGameTutorialBU.unity
+    guid: f1003183337bb594eaf2dbacb4bf2a64
+  - enabled: 1
+    path: Assets/Scenes/ReactionGame.unity
+    guid: be44917ac2f7c4343ae1d68cc7f37c8c
+  - enabled: 1
+    path: Assets/Scenes/EmailMainGame.unity
+    guid: 82640597607da2047b3cc261e51d84f7
+  - enabled: 1
+    path: Assets/Scenes/EmailMainGame3.unity
+    guid: fc8acfc700e369a49821d4c95a0352ea
+  - enabled: 1
+    path: Assets/Scenes/EmailGameTutorial2.unity
+    guid: 01aa8422e7f7f5a4aa818bc5303b04b4
+  - enabled: 1
+    path: Assets/Scenes/EmailMainGameBU.unity
+    guid: f95b5ac835ce61e4596d1866c6208c50
+  - enabled: 1
+    path: Assets/Scenes/EducationMenu.unity
+    guid: b2d5a8145df82034f88ba5fcba5192a7
+  - enabled: 1
+    path: Assets/Scenes/GiveawayEducation.unity
+    guid: 6376bd550155a604b90903ef2559a090
+  - enabled: 1
+    path: Assets/Scenes/TechSupportScamEducation.unity
+    guid: c4512b1ea724d044985dbb43b772697a
+  - enabled: 1
+    path: Assets/Scenes/EmailSpoofingEducation.unity
+    guid: 66563ba287b9d7644a30404ee7d2b7a5
+  - enabled: 1
+    path: Assets/Scenes/sceneB.unity
+    guid: cc31549d406ddd740945b820fcb0547f
+  - enabled: 1
+    path: Assets/Scenes/sceneC.unity
+    guid: df3c4fed3ee4ca7479bf3d8850ea5c26
+  - enabled: 1
+    path: Assets/Scenes/ReactionGameTutorial.unity
+    guid: 8d471b37576d5f747bd5bb09f4bfd59e
+  - enabled: 1
+    path: Assets/Scenes/SceneD.unity
+    guid: 9a9a0eb2709338845add9e93e492e3f6
+  - enabled: 1
+    path: Assets/Scenes/SceneE.unity
+    guid: ec883b5e4838b0841b117a446aea3676
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Fungus.unity
+    guid: 15d6a8bba8404d741a046630cac80b77
+  - enabled: 1
+    path: Assets/Scenes/banksceneM.unity
+    guid: ddcabb7401ee41c449e25084a056a60c
+  - enabled: 1
+    path: Assets/Scenes/0dollar.unity
+    guid: bf2ecefd75f3ef447bb6d89ea4a6eeec
+  - enabled: 1
+    path: Assets/Scenes/shopping.unity
+    guid: 3593b4c3f2d476d4d94686efdd9711c6
+  - enabled: 1
+    path: Assets/Scenes/cancel1.unity
+    guid: 66c0a2116b3759c458304e6312e85cca
+  - enabled: 1
+    path: Assets/Scenes/cancel2.unity
+    guid: 55cc23532a5e4fc4788297d776426c6b
+  - enabled: 1
+    path: Assets/Scenes/EmailMainGame2.unity
+    guid: cc35182179052564db22eff6ad1f88d0
+  - enabled: 1
+    path: Assets/Rachel Education Simulation/first.unity
+    guid: 929b97b156d037a409f039463fd54361
+  - enabled: 1
+    path: Assets/Rachel Education Simulation/last.unity
+    guid: f0d235240c81b0047a9a3dcd8b563c12
+  - enabled: 1
+    path: Assets/Rachel Education Simulation/SampleScene.unity
+    guid: b9a0b74d8a6bfec4dabd7fa3cd4ced27
+  - enabled: 1
+    path: Assets/Rachel Education Simulation/scene1.1.unity
+    guid: 660d7d805547486488781bfe3e04da76
+  - enabled: 1
+    path: Assets/Rachel Education Simulation/scene1.2.unity
+    guid: 88762e4447923f440b2f3ad216e1142b
+  - enabled: 1
+    path: Assets/Rachel Education Simulation/scene1.unity
+    guid: cc52ee297779f534a8d1dd1003c067d8
+  - enabled: 1
+    path: Assets/Rachel Education Simulation/scene2.unity
+    guid: 42bcf1b41f768f0489ea6ae7a75853d5
+  - enabled: 1
+    path: Assets/Rachel Education Simulation/scene3.unity
+    guid: 73c39771bdfa5a1428d384dc45b60ec5
+  - enabled: 1
+    path: Assets/Rachel Education Simulation/scene4.unity
+    guid: 115a8a6d94195ef4dab2cbce31feeb9f
+  - enabled: 1
+    path: Assets/Rachel Education Simulation/scene5.unity
+    guid: 2e380a944ab45284a8d74228d505b626
+  - enabled: 1
+    path: Assets/Rachel Education Simulation/scene6.unity
+    guid: 9656d8fe3fb37424fb04fe52a3a37d3a
+  - enabled: 1
+    path: Assets/Rachel Education Simulation/scene7.unity
+    guid: a701b935960894f49ba330d832bed0cc
+  - enabled: 1
+    path: Assets/Rachel Education Simulation/scene8.unity
+    guid: 76e98f87ead82e242b70ac45e5a9f07d
+  - enabled: 1
+    path: Assets/Rachel Education Simulation/scene9.unity
+    guid: 9d025fc09a46c784285c506684a8d23d
+  - enabled: 1
+    path: Assets/Rachel Education Simulation/scene10.unity
+    guid: 04e2af7c9dc1d7845887ad3e64d0e482
+  - enabled: 1
+    path: Assets/Rachel Education Simulation/scene11.unity
+    guid: e32c2f55a57c8ea4699da9a6e9c55f40
+  - enabled: 1
+    path: Assets/Assets/Scenes/BE1.unity
+    guid: ed2848866154cac44b3d9cb5813f1167
+  - enabled: 1
+    path: Assets/Assets/Scenes/BE2.unity
+    guid: ef670298aa86df341b5123176dbbddcb
+  - enabled: 1
+    path: Assets/Assets/Scenes/BE3.unity
+    guid: 98795fa9e3ca8d74caa4b30a5b71fd24
+  - enabled: 1
+    path: Assets/Assets/Scenes/GE1.unity
+    guid: 3b22058ad3bc5a04fb447360ea827077
+  - enabled: 1
+    path: Assets/Assets/Scenes/GE2.unity
+    guid: ba944383b2592784d9401889d61a4727
+  - enabled: 1
+    path: Assets/Assets/Scenes/GE3.unity
+    guid: 2ab1bc39101b33744a0ce0cc063e3f41
+  - enabled: 1
+    path: Assets/Assets/Scenes/Main.unity
+    guid: 40051ef23f96d6c488097f9e716751aa
+  - enabled: 1
+    path: Assets/Assets/Scenes/NE1.unity
+    guid: 8784ab3075bbc0d48b6145786db8a224
+  - enabled: 1
+    path: Assets/Assets/Scenes/NE2.unity
+    guid: 0e6639b233e57a24b97cc3df2f23c91d
+  - enabled: 1
+    path: Assets/Assets/Scenes/NE3.unity
+    guid: 84369e9f400801c4b8b314aaa0db720f
+  - enabled: 1
+    path: Assets/Assets/Scenes/Scene1E.unity
+    guid: de42f7b3eaf6f76418485c802786ba9c
+  - enabled: 1
+    path: Assets/Assets/Scenes/Scene2E.unity
+    guid: b3eb5b54927323049a0960e1c1641b5d
+  - enabled: 1
+    path: Assets/Assets/Scenes/Scene3E.unity
+    guid: b3a5b6489298e004baeafec09e6b09c4
+  - enabled: 1
+    path: Assets/Scenes/EndlessRunnerTutorial.unity
+    guid: cd23c49efc04dd94bb229dd61ea903d7
+  - enabled: 1
+    path: Assets/Scenes/GiveawayP1.unity
+    guid: adc7c3eddbd78bf4f8474f1bb36a0e30
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: c67d63e553e9e294ea8fcf09dbeac4e4
+  - enabled: 1
+    path: Assets/Scenes/CertificateScene.unity
+    guid: 329e5b8c1fca1444284b9188228c8eda
+  - enabled: 1
+    path: Assets/Scenes/sceneF.unity
+    guid: 7528d48c628e8ee4db36c2533d015d36
+  m_configObjects: {}
