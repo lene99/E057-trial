@@ -1,5 +1,7 @@
 # E057 - Detection and Mitigation of Social Engineering Attacks
-In this game, our aim is to educate users or players on the different kinds of social engineering attacks that they will see when surfing the Internet, and they are: 
+
+## Motivation
+To create a game with C# programming and Unity software to educate the audience on the different kinds of social engineering attacks they will encounter when surfing the Internet, and how they should avoid them. In our game, we covered three types of attacks, namely:- 
 * Giveaway Scams
 * Email-Spoofing
 * Tech Support Scams
@@ -13,3 +15,5 @@ To do so, we created a 2D game through Unity Hub.
 3. Download the Unity package and import it into the project.
 4. Export the project 
 5. Run the game, and play!  
+
+## Read our Group's report to have an overall idea of the motivation of the game creation <a href="E:/Y3S1/EE3080/Report/E057_FinalGroupReport.pdf" download>here</a>!
