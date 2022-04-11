@@ -16,4 +16,5 @@ To do so, we created a 2D game through Unity Hub.
 4. Export the project 
 5. Run the game, and play!  
 
-## Read our Group's report to have an overall idea of the motivation of the game creation <a href="E:/Y3S1/EE3080/Report/E057_FinalGroupReport.pdf" download>here</a>!
+## Read our Group's report to have an overall idea of the motivation of the game creation!
+<a href="E:/Y3S1/EE3080/Report/E057_FinalGroupReport.pdf" download>Group Report</a>
