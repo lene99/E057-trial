@@ -17,4 +17,4 @@ To do so, we created a 2D game through Unity Hub.
 5. Run the game, and play!  
 
 ## Read our Group's report to have an overall idea of the motivation of the game creation!
-<a href="E:/Y3S1/EE3080/Report/E057_FinalGroupReport.pdf" download>Group Report</a>
+<a href="https://github.com/lene99/E057-trial/raw/master/E057_FinalGroupReport_removed_matric_num.pdf" download>E057 Group Report 2021</a>
