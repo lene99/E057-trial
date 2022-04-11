@@ -8,6 +8,8 @@ To do so, we created a 2D game through Unity Hub.
 
 ## How to install the project
 
-You need to first have Unity in your workspace. Download Unity through [here](https://www.unity3d.com/get-unity/download).
-Once downloaded, create a new 2D project, and name it anything you want.
-
+1. You need to first have Unity in your workspace. Download Unity through [here](https://www.unity3d.com/get-unity/download).
+2. Once downloaded, create a new 2D project. 
+3. Download the Unity package and import it into the project.
+4. Export the project 
+5. Run the game, and play!  
